@@ -1,3 +1,0 @@
-history = readtable('SPY.csv'); 
-history.Properties.VariableDescriptions
-plot(history(:,5), 'linewidth', 3)
